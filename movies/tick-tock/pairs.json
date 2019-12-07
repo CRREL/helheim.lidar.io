@@ -1,0 +1,28 @@
+{
+    "pairs": [
+          [ "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-South/2018/180811_190158/ept.json",
+            "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-North/2018/180811_060214/ept.json" ],
+          [ "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-South/2018/180812_010159/ept.json",
+            "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-North/2018/180811_120230/ept.json" ],
+          [ "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-South/2018/180812_070155/ept.json",
+            "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-North/2018/180811_180231/ept.json" ],
+          [ "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-South/2018/180812_130155/ept.json",
+            "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-North/2018/180812_000231/ept.json" ],
+          [ "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-South/2018/180812_190155/ept.json",
+            "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-North/2018/180812_060253/ept.json" ],
+          [ "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-South/2018/180813_010157/ept.json",
+            "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-North/2018/180812_120215/ept.json" ],
+          [ "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-South/2018/180813_070153/ept.json",
+            "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-North/2018/180812_180240/ept.json" ],
+          [ "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-South/2018/180813_130156/ept.json",
+            "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-North/2018/180813_000244/ept.json" ],
+          [ "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-South/2018/180813_190156/ept.json",
+            "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-North/2018/180813_060236/ept.json" ],
+          [ "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-South/2018/180814_010156/ept.json",
+            "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-North/2018/180813_120239/ept.json" ],
+          [ "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-South/2018/180814_070154/ept.json",
+            "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-North/2018/180814_000226/ept.json" ],
+          [ "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-South/2018/180814_130155/ept.json",
+            "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-North/2018/180814_120224/ept.json" ]
+    ]
+}

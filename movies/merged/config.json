@@ -1,0 +1,37 @@
+{
+    "movie": {},
+    "viewer": {
+        "pointBudget": 10000000,
+        "background": "white",
+        "view": {
+            "position": [
+                547304.10,
+                7362457.65,
+                8253.22
+
+            ],
+            "lookAt": [
+                536782.43,
+                7361290.80,
+                140.21
+            ]
+        }
+    },
+    "material": {
+        "size": 3,
+        "pointSizeType": 0,
+        "pointColorType": 3,
+        "elevationRange": [
+            0,
+            180
+        ]
+    },
+    "resourceMeta": {
+        "devPrefix": "/data/merged/",
+        "prodPrefix": "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-North/2018/"
+    },
+    "resources": [
+        {"enabled":true,"name":"180812_190155","psid":4}
+    ]
+}
+
