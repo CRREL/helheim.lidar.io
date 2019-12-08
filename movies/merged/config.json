@@ -29,7 +29,7 @@
     },
     "resourceMeta": {
         "devPrefix": "/data/merged/",
-        "prodPrefix": "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-North/2018/"
+        "prodPrefix": "https://potree-movie.s3.amazonaws.com/crrel_placeholder/ATLAS-Merged/2018/"
     },
     "resources": [
         {"enabled":true,"name":"180811_190158","psid":0},
