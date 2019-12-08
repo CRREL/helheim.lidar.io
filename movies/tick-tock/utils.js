@@ -17,31 +17,16 @@ north.forEach( r=> {
 south.forEach( r=> {
     r.name = `South/2018/${r.name}`;
 })
-var resources = north.concat(south)
+var resources = []
 
-compareResources = (a, b) => { 
-    return toDate(a) - toDate(b)
+if(north.length != south.length) throw new Error()
+
+for(let i = 0; i < north.length; i++) {
+    resources.push(north[i])
+    resources.push(south[i])
 }
 
-resources.sort(compareResources)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+console.log(JSON.stringify(resources))
 
 
 
