@@ -3,7 +3,7 @@
     "movie": {},
     "viewer": {
         "pointBudget": 1000000,
-        "background": "gradient",
+        "background": "white",
         "view": {
             "position": [
                 547304.10,

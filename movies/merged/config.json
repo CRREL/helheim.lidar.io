@@ -23,8 +23,8 @@
         "pointSizeType": 0,
         "pointColorType": 3,
         "elevationRange": [
-            0,
-            180
+            40,
+            170
         ]
     },
     "resourceMeta": {
