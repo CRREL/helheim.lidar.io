@@ -1,4 +1,5 @@
 {
+    "defaultPreload": 11,
     "movie": {},
     "viewer": {
         "pointBudget": 10000000,
@@ -31,7 +32,18 @@
         "prodPrefix": "https://grid-public-ept.s3.amazonaws.com/atlas/ATLAS-North/2018/"
     },
     "resources": [
-        {"enabled":true,"name":"180812_190155","psid":4}
+        {"enabled":true,"name":"180811_190158","psid":0},
+        {"enabled":true,"name":"180812_010159","psid":1},
+        {"enabled":true,"name":"180812_070155","psid":2},
+        {"enabled":true,"name":"180812_130155","psid":3},
+        {"enabled":true,"name":"180812_190155","psid":4},
+        {"enabled":true,"name":"180813_010157","psid":5},
+        {"enabled":true,"name":"180813_070153","psid":6},
+        {"enabled":true,"name":"180813_130156","psid":7},
+        {"enabled":true,"name":"180813_190156","psid":8},
+        {"enabled":true,"name":"180814_010156","psid":9},
+        {"enabled":true,"name":"180814_070154","psid":10},
+        {"enabled":true,"name":"180814_130155","psid":11}
     ]
 }
 
