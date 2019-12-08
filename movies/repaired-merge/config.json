@@ -1,0 +1,49 @@
+{
+    "defaultPreload": 11,
+    "movie": {},
+    "viewer": {
+        "pointBudget": 10000000,
+        "background": "white",
+        "view": {
+            "position": [
+                547304.10,
+                7362457.65,
+                8253.22
+
+            ],
+            "lookAt": [
+                536782.43,
+                7361290.80,
+                140.21
+            ]
+        }
+    },
+    "material": {
+        "size": 3,
+        "pointSizeType": 0,
+        "pointColorType": 3,
+        "elevationRange": [
+            40,
+            170
+        ]
+    },
+    "resourceMeta": {
+        "devPrefix": "/data/remerged/",
+        "prodPrefix": "https://potree-movie.s3.amazonaws.com/crrel_placeholder/ATLAS-Remerged/2018/"
+    },
+    "resources": [
+        {"name": "180811_070201", "enabled": true, "psid": 0},
+        {"name": "180811_130157", "enabled": true, "psid": 1},
+        {"name": "180811_190158", "enabled": true, "psid": 2},
+        {"name": "180812_010159", "enabled": true, "psid": 3},
+        {"name": "180812_070155", "enabled": true, "psid": 4},
+        {"name": "180812_130155", "enabled": true, "psid": 5},
+        {"name": "180812_190155", "enabled": true, "psid": 6},
+        {"name": "180813_010157", "enabled": true, "psid": 7},
+        {"name": "180813_070153", "enabled": true, "psid": 8},
+        {"name": "180813_130156", "enabled": true, "psid": 9},
+        {"name": "180814_010156", "enabled": true, "psid": 10},
+        {"name": "180814_130155", "enabled": true, "psid": 11}
+    ]
+}
+
